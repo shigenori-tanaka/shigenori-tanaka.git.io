@@ -18,7 +18,7 @@
 
 - エンジニアは人手不足であること => 需要は高く市場価値も高い。
 - AIが苦手とするクリエイティブな分野である => 代替性は低いと考えられる
-- 自分の性格とエンジニア業務がマッチしている　=> 考えながらもくもくと作業するのが好き、プログラムが出来上がっていくのが楽しい
+- 自分の性格とエンジニア業務がマッチしている => 考えながらもくもくと作業するのが好き、プログラムが出来上がっていくのが楽しい
 
 という理由からです。
 
@@ -31,6 +31,6 @@
 
 ## skill, portfolio
 2020年1月中旬からプログラミングスクール"tech boost"に通い、PHP, laravelの基礎を学習中です。それに付随するものとしてHTML, CSS, git, SQLを学習しております。当ページに載せているポートフォリオ以外にも、Techpitの教材を使いアプリを作成いたしました。より多くのアプリ作成経験を得ることで、作成の流れやイメージを掴むことができたと思います。
-- Laravelで飲食店検索LINE Botを作ろう！　https://www.techpit.jp/p/laravel-line-bot
-- Laravelでtrello風todoタスク管理アプリを作成しよう！　https://www.techpit.jp/p/laravel-trello-todo
-- Laradock(ララドック)を使ってLaravelでECサイトを作ってみよう！　https://www.techpit.jp/p/ec-laravel
+- Laravelで飲食店検索LINE Botを作ろう！ https://www.techpit.jp/p/laravel-line-bot
+- Laravelでtrello風todoタスク管理アプリを作成しよう！ https://www.techpit.jp/p/laravel-trello-todo
+- Laradock(ララドック)を使ってLaravelでECサイトを作ってみよう！ https://www.techpit.jp/p/ec-laravel
