@@ -9,6 +9,7 @@
 ポートフォリオサイト : https://shigenori-tanaka.github.io/shigenori-tanaka.git.io/
 
 
+## その他
 GitHub : https://github.com/shigenori-tanaka
 
 Qiita : https://qiita.com/s-tanaka0917
