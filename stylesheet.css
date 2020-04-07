@@ -87,3 +87,8 @@ small{
     color: white;
     margin: 0 auto;
 }
+
+h6{
+    font-weight: bold;
+    margin-top: 20px;
+}
