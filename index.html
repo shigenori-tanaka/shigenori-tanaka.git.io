@@ -20,13 +20,19 @@
 
     </head>
     <body>
+        <!-- "sticky-top"でスクロールしても常に上部に表示 -->
+        <!-- "navbar-expand-xxx" 画面サイズが小さくなるとバーガーメニュー表示 -->
+        <!-- "p-XX"でナビバーの高さ調整。デフォルトの"bg-light"を削除し"style"属性で色を変更 -->
         <nav class="navbar sticky-top navbar-expand-md p-0" style="background-color:rgb(17, 4, 75);">
             <div class="container">
                 <a class="nav-link active" href="#" style="font-size: 20px;">TOP </a>
+                <!-- バーガーメニュー設置 -->
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#Navber" aria-controls="Navber" aria-expanded="false" aria-label="レスポンシブ・ナビゲーションバー">
                 <span class="navbar-toggler-icon"></span>
                 </button>
+                <!-- バーガーメニュー設置 -->
                 <div class="collapse navbar-collapse" id="Navber">
+                    <!-- バーガーメニュー開いたときリストを縦に並べる。mr-,とかで -->
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item">
                             <a class="nav-link" href="#profile">profile</a>
@@ -46,36 +52,7 @@
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div>
-          </nav>
-        
-
-        <!-- "sticky-top"でスクロールしても常に上部に表示 -->
-        <!-- "p-XX"でナビバーの高さ調整。デフォルトの"bg-light"を削除し"style"属性で色を変更 -->
-        <!-- <nav class="navbar sticky-top navbar-light p-0" style="background-color:rgb(17, 4, 75);">
-            <div class="container">
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="#">top</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#profile">profile</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#skill">skill</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#portfolio">portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#other">other</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#reference">reference</a>
-                    </li>
-                </ul>
-            </div>
-        </nav> -->
-
+          </nav>     
         <div class="container">
             <div class="top-area">
                 <h1 id="top">Welcome to<br> S.Tanaka's portfolio site.</h1>
